@@ -101,6 +101,7 @@ header nav ul li a{
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
+	border-bottom: 1px solid #eee;
 }
 
 .main-image {
